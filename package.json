@@ -1,0 +1,10 @@
+{
+  "name": "self-signed-cert",
+  "version": "1.0.0",
+  "dependencies": {
+    "selfsigned": "^1.9.1"
+  },
+  "scripts": {
+    "sign": "node sign.js"
+  }
+}
